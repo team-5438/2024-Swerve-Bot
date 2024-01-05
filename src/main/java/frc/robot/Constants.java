@@ -12,6 +12,7 @@ import frc.lib.util.SwerveModuleConstants;
 
 public final class Constants {
     public static final double stickDeadband = 0.18;
+    public  static final double solenoidID = 10;
 
     public static final class Swerve {
         public static final int pigeonID = 9;
